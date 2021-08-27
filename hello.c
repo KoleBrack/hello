@@ -14,5 +14,8 @@
      printf("Kole Brack!\n");
      printf("Computer Science\n");
      
+     printf("Elias Ervin!\n");
+     printf("Computer Science\n");
+     
      return 0;
  }
